@@ -1,0 +1,11 @@
+
+
+.card-wrapper {
+    border-radius: 20px;
+    border-color: aqua;
+    padding: 20px;
+    background-color: aqua;
+    width: fit-content;
+    margin: 10px;
+    margin-left: 5%;
+}
